@@ -1,6 +1,6 @@
 # Marble Madness
 
-C++ OOP game where you navigate through levels, collect crystals, avoid enemies, and reach the exit.
+OOP-based C++ game where you navigate through levels, collect crystals, avoid enemies, and reach the exit.
 
 ## Requirements
 
